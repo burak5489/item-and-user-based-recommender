@@ -1,4 +1,4 @@
-# item-and-user-based-recommender
+# user-based-recommender
 
 """item_user_based.ipynb
 
